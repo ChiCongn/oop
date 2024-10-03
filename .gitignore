@@ -1,0 +1,6 @@
+# Ignore build files 
+
+# Ignore all .gradle file
+*.gradle
+
+# Success

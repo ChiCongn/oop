@@ -1,3 +1,4 @@
+package HW2;
 // CS108 HW1 -- provided simple immutable Point 2-d point class
 // that encapsulates a double x/y pair.
 // Could also use the java.awt.Point2D class, but its
@@ -83,5 +84,9 @@ public class Point {
 		Point other = (Point)object;
 		// Note: here we == compare doubles, which is not a good practice
 		return (other.x==x && other.y==y);
+	}
+
+	public static void main(String[] args) {
+		System.out.println("ajbksfjb");
 	}
 }

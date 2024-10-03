@@ -1,4 +1,4 @@
-
+package HW2;
 /*
  HW1 Taboo problem class.
  Taboo encapsulates some rules about what objects
